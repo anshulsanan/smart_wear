@@ -8,6 +8,22 @@
 
 # Week8
 
+I worked on breadboard and soldering. Tested my addrress on RPi and noticed my default address as 0x19.
+
+Steps :
+
+Solder your sensor
+
+Follow the RPI Header reference for your pinout to breadboard
+
+Look for the 3V/5V pin from your Rpi and connect it to breadboard 
+
+Connect VCC to 3V power supply and GND to common ground
+
+Now connect your SCL to SCL pin on your RPi
+
+Connect SDA to  SDA pin on your RPI
+
 
 ![i2c_bb](https://user-images.githubusercontent.com/43185859/48022114-4d706680-e108-11e8-8b9d-90162020e282.jpg)
 
