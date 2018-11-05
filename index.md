@@ -24,6 +24,7 @@ I worked on Psuedo code assignment with first year student Sarthak.
 ![capture](https://user-images.githubusercontent.com/43185859/48022365-f4ed9900-e108-11e8-9cdd-c8d549768096.PNG)
 
 # Week4
+![capture1](https://user-images.githubusercontent.com/43185859/48022555-75ac9500-e109-11e8-8790-4d3f4d5bbddd.PNG)
 
 # Week3
 
