@@ -15,7 +15,7 @@
 
 
 # Week7
-
+I worked on Psuedo code assignment with first year student Sarthak.
 # Week6
 
 
