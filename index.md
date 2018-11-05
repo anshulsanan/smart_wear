@@ -9,6 +9,11 @@
 # Week8
 
 
+![i2c_bb](https://user-images.githubusercontent.com/43185859/48022114-4d706680-e108-11e8-8b9d-90162020e282.jpg)
+
+![img_20181023_165739](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
+
+
 # Week7
 
 # Week6
