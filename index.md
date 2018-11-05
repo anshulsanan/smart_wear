@@ -20,14 +20,16 @@ I worked on Psuedo code assignment with first year student Sarthak.
 
 
 # Week5
+![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
+
+
+# Week4
 [Budget.docx](https://github.com/anshulsanan/smart_wear/files/2550329/Budget.docx)
 ![capture](https://user-images.githubusercontent.com/43185859/48022365-f4ed9900-e108-11e8-9cdd-c8d549768096.PNG)
 
-# Week4
-![capture1](https://user-images.githubusercontent.com/43185859/48022555-75ac9500-e109-11e8-8790-4d3f4d5bbddd.PNG)
 
 # Week3
 
 # Week2
-![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
+![capture1](https://user-images.githubusercontent.com/43185859/48022555-75ac9500-e109-11e8-8790-4d3f4d5bbddd.PNG)
 # Week1
