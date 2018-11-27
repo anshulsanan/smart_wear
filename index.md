@@ -42,6 +42,11 @@ Files Used:
 
 ![33c6e3d3-62be-4958-8fb5-e9c726f1eecd](https://user-images.githubusercontent.com/43185859/48021885-b3102300-e107-11e8-80c8-58d16e0771ab.jpg)
 
+Gerbert File:
+
+[Accelerometer.zip](https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip)
+
+
 
 # Week8
 
