@@ -9,6 +9,8 @@
 
 CorelDraw File :
 
+[Anshul_CorelFile.zip](https://github.com/anshulsanan/smart_wear/files/2621935/Anshul_CorelFile.zip)
+
 ![capture](https://user-images.githubusercontent.com/43185859/49113049-78ab2900-f262-11e8-9450-ad23d13df45b.PNG)
 
 
