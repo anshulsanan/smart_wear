@@ -106,7 +106,12 @@ UML Diagram-
 
 
 # Week4
+
+Budget:
+
 [Budget.docx](https://github.com/anshulsanan/smart_wear/files/2550329/Budget.docx)
+
+
 ![capture](https://user-images.githubusercontent.com/43185859/48022365-f4ed9900-e108-11e8-9cdd-c8d549768096.PNG)
 
 
