@@ -1,6 +1,11 @@
 
 # Week12
-
+![img_20181127_154826](https://user-images.githubusercontent.com/43185859/49110781-662df100-f25c-11e8-923a-a5a6c2d52e57.jpg)
+![img_20181127_154831](https://user-images.githubusercontent.com/43185859/49110782-662df100-f25c-11e8-8278-cf184d9ccf36.jpg)
+![img_20181127_154811](https://user-images.githubusercontent.com/43185859/49110784-662df100-f25c-11e8-840a-9c4cca669a2f.jpg)
+![img_20181127_154815](https://user-images.githubusercontent.com/43185859/49110785-662df100-f25c-11e8-9686-bdb6de588d4d.jpg)
+![img_20181127_154822](https://user-images.githubusercontent.com/43185859/49110787-662df100-f25c-11e8-9b44-da08c71257b2.jpg)
+![img_20181127_154824](https://user-images.githubusercontent.com/43185859/49110788-662df100-f25c-11e8-86cd-19be71ad2ddc.jpg)
 # Week9
 ![whatsapp image 2018-11-05 at 2 25 06 pm 1](https://user-images.githubusercontent.com/43185859/48021714-43019d00-e107-11e8-8637-334db220a56a.jpeg)
 
