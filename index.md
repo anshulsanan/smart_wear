@@ -1,5 +1,6 @@
 
 # Week12
+
 ![img_20181127_154826](https://user-images.githubusercontent.com/43185859/49110781-662df100-f25c-11e8-923a-a5a6c2d52e57.jpg)
 ![img_20181127_154831](https://user-images.githubusercontent.com/43185859/49110782-662df100-f25c-11e8-8278-cf184d9ccf36.jpg)
 ![img_20181127_154811](https://user-images.githubusercontent.com/43185859/49110784-662df100-f25c-11e8-840a-9c4cca669a2f.jpg)
@@ -8,6 +9,7 @@
 ![img_20181127_154824](https://user-images.githubusercontent.com/43185859/49110788-662df100-f25c-11e8-86cd-19be71ad2ddc.jpg)
 
 # Week11
+
 Power Up:
 
 
@@ -20,6 +22,7 @@ Files Used:
 
 
 # Week10
+
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
 ![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
 ![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
@@ -29,6 +32,7 @@ Files Used:
 
 
 # Week9
+
 ![whatsapp image 2018-11-05 at 2 25 06 pm 1](https://user-images.githubusercontent.com/43185859/48021714-43019d00-e107-11e8-8637-334db220a56a.jpeg)
 
 ![whatsapp image 2018-11-05 at 2 25 06 pm](https://user-images.githubusercontent.com/43185859/48021784-6d535a80-e107-11e8-9ba3-1162ebdee2af.jpeg)
@@ -61,26 +65,36 @@ Connect SDA to  SDA pin on your RPI
 
 
 # Week7
+
 I worked on Psuedo code assignment with first year student Sarthak.
 
 File:
 
 [Pseudo Code.pdf](https://github.com/anshulsanan/smart_wear/files/2621886/Pseudo.Code.pdf)
+
+
 # Week6
 
 
 # Week5
+
 ![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
 
 
 # Week4
+
 [Budget.docx](https://github.com/anshulsanan/smart_wear/files/2550329/Budget.docx)
+
+
 ![capture](https://user-images.githubusercontent.com/43185859/48022365-f4ed9900-e108-11e8-9cdd-c8d549768096.PNG)
 
 
 # Week3
+
 ![47387249-c1f4df80-d6dc-11e8-9725-7fe4e579356e](https://user-images.githubusercontent.com/43185859/48022671-c6bc8900-e109-11e8-933f-ec6e5755b92f.png)
 
 # Week2
+
 ![capture1](https://user-images.githubusercontent.com/43185859/48022555-75ac9500-e109-11e8-8790-4d3f4d5bbddd.PNG)
+
 # Week1
