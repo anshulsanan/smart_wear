@@ -1,3 +1,8 @@
+# Week13
+
+Presentation Week:
+
+[LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2622157/LIS3DH.pptx)
 
 # Week12
 ![img_20181127_154826](https://user-images.githubusercontent.com/43185859/49110781-662df100-f25c-11e8-923a-a5a6c2d52e57.jpg)
