@@ -10,6 +10,9 @@
 # Week11
 Power Up:
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
+Files Used:
+[LIS3DH.zip](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
+
 
 # Week10
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
