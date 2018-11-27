@@ -11,6 +11,15 @@
 Power Up:
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
+# Week10
+![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
+![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
+![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
+![img_20181127_125209](https://user-images.githubusercontent.com/43185859/49110986-e6545680-f25c-11e8-8d6d-bffd694687bc.jpg)
+![img_20181127_125213](https://user-images.githubusercontent.com/43185859/49110987-e6545680-f25c-11e8-92ab-5fbddac78d77.jpg)
+![img_20181127_125220](https://user-images.githubusercontent.com/43185859/49110988-e6545680-f25c-11e8-9388-539b7eb1c4ce.jpg)
+
+
 # Week9
 ![whatsapp image 2018-11-05 at 2 25 06 pm 1](https://user-images.githubusercontent.com/43185859/48021714-43019d00-e107-11e8-8637-334db220a56a.jpeg)
 
