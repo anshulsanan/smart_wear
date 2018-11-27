@@ -1,10 +1,10 @@
-# Week13
+# Week13 (Nov 27)
 
 Presentation Week:
 
 [LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2622157/LIS3DH.pptx)
 
-# Week12
+# Week12 (Nov 20)
 ![img_20181127_154826](https://user-images.githubusercontent.com/43185859/49110781-662df100-f25c-11e8-923a-a5a6c2d52e57.jpg)
 ![img_20181127_154831](https://user-images.githubusercontent.com/43185859/49110782-662df100-f25c-11e8-8278-cf184d9ccf36.jpg)
 ![img_20181127_154811](https://user-images.githubusercontent.com/43185859/49110784-662df100-f25c-11e8-840a-9c4cca669a2f.jpg)
@@ -19,7 +19,7 @@ CorelDraw File :
 ![capture](https://user-images.githubusercontent.com/43185859/49113049-78ab2900-f262-11e8-9450-ad23d13df45b.PNG)
 
 
-# Week11
+# Week11 (Nov 13)
 Power Up:
 
 
@@ -31,7 +31,7 @@ Files Used:
 [LIS3DH.zip](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
 
 
-# Week10
+# Week10 (Nov 6)
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
 ![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
 ![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
@@ -40,7 +40,7 @@ Files Used:
 ![img_20181127_125220](https://user-images.githubusercontent.com/43185859/49110988-e6545680-f25c-11e8-9388-539b7eb1c4ce.jpg)
 
 
-# Week9
+# Week9 (Oct 30)
 
 Gerbert File:
 
@@ -57,7 +57,7 @@ Gerbert File:
 
 
 
-# Week8
+# Week8 (Oct 23)
 
 I worked on breadboard and soldering. Tested my addrress on RPi and noticed my default address as 0x19.
 
@@ -81,7 +81,7 @@ Connect SDA to  SDA pin on your RPI
 ![img_20181023_165739](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
 
 
-# Week7
+# Week7 (Oct 16)
 Aquisition 
 
 Parts Ordered:
@@ -94,20 +94,20 @@ Parts Ordered:
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49117559-1dcbfe80-f26f-11e8-9312-64969a31ff77.jpg)
 
 
-# Week6
+# Week6 (Oct 9)
 
 UML Diagram-
 
 ![capture](https://user-images.githubusercontent.com/43185859/49117469-c75ec000-f26e-11e8-89de-af591b191b37.PNG)
 
 
-# Week5
+# Week5 (Oct 2)
 Invoice-
 
 ![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
 
 
-# Week4
+# Week4 
 
 Budget:
 
