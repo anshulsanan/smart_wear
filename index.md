@@ -62,6 +62,10 @@ Connect SDA to  SDA pin on your RPI
 
 # Week7
 I worked on Psuedo code assignment with first year student Sarthak.
+
+File:
+
+[Pseudo Code.pdf](https://github.com/anshulsanan/smart_wear/files/2621886/Pseudo.Code.pdf)
 # Week6
 
 
