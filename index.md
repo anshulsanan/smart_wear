@@ -82,14 +82,24 @@ Connect SDA to  SDA pin on your RPI
 
 
 # Week7
-I worked on Psuedo code assignment with first year student Sarthak.
+Aquisition 
+
+Parts Ordered:
+1 Raspberry Pi 3b+
+
+![770a5842-1612x1080](https://user-images.githubusercontent.com/43185859/49117549-14db2d00-f26f-11e8-916a-be875860f58f.jpg)
+
+1 LIS3DH 3-Axis Accelerometer
+
+![lis3dh](https://user-images.githubusercontent.com/43185859/49117559-1dcbfe80-f26f-11e8-9312-64969a31ff77.jpg)
+
 
 # Week6
-Aquisition
 
-Parts:
-1 Raspberry Pi 3b+
-1 LIS3DH 3-Axis Accelerometer
+UML Diagram-
+
+![capture](https://user-images.githubusercontent.com/43185859/49117469-c75ec000-f26e-11e8-89de-af591b191b37.PNG)
+
 
 # Week5
 ![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
