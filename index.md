@@ -9,6 +9,8 @@
 
 # Week11
 Power Up:
+
+
 I faced many obstacles with the code and my sensor as I bought a sparkfun sensor which is compatible mostly with arduino microcontroller . So , I have to take it to next level and download some plug-ins and libraries which took some time but finally worked at last.
 
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
