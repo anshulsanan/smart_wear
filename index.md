@@ -33,7 +33,7 @@ I faced many obstacles with the code and my sensor as I bought a sparkfun sensor
 
 **Progress Report-**
 
-Due to only availibility of adafruit files , I had to make changes in the LIS3DH python file which successfully compiled and worked with my sensor.
+I chose a sparkfun sensor and because of its inavailibility of python files, I had to make changes to the files of same sensor provided by Adafruit which worked successfully for me.The piduino library support ,toolchain and StackOverflow helped me to get the readings.
 
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
