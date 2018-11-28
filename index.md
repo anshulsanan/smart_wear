@@ -5,6 +5,12 @@
 [LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2622157/LIS3DH.pptx)
 
 # Week12 (Nov 20)
+
+**Enclosure-**
+
+**Progress Report-**
+The acrylic case printed for my enclosure was a little tight and couldn't house some of the I/O ports so I reprinted my acrylic case and attathed my RPi in it.
+
 ![img_20181127_154826](https://user-images.githubusercontent.com/43185859/49110781-662df100-f25c-11e8-923a-a5a6c2d52e57.jpg)
 ![img_20181127_154831](https://user-images.githubusercontent.com/43185859/49110782-662df100-f25c-11e8-8278-cf184d9ccf36.jpg)
 ![img_20181127_154811](https://user-images.githubusercontent.com/43185859/49110784-662df100-f25c-11e8-840a-9c4cca669a2f.jpg)
@@ -20,10 +26,14 @@
 
 
 # Week11 (Nov 13)
+
 **Power Up:**
 
-
 I faced many obstacles with the code and my sensor as I bought a sparkfun sensor which is compatible mostly with arduino microcontroller . So , I have to take it to next level and download some plug-ins and libraries which took some time but finally worked at last.
+
+**Progress Report-**
+
+Due to only availibility of adafruit files , I had to make changes in the LIS3DH python file which successfully compiled and worked with my sensor.
 
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
@@ -34,6 +44,12 @@ I faced many obstacles with the code and my sensor as I bought a sparkfun sensor
 
 # Week10 (Nov 6)
 
+**PCB Printing-**
+
+**Progress Report-**
+
+During the soldering process, I made many shorts but with the help of Vlad, I removed that shorts.
+
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
 ![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
 ![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
@@ -43,11 +59,13 @@ I faced many obstacles with the code and my sensor as I bought a sparkfun sensor
 
 
 # Week9 (Oct 30)
-PCB Printing -
 
+**PCB Design -**
+
+**Progress Report-**
 I sent my gerbert file to Vlad and it took many attempts to print it due to some minor defects and because other students accidentally taking PCBs thinking its theirs.
 
-Gerbert File:
+**Gerbert File:**
 
 [Accelerometer.zip](https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip)
 
@@ -59,10 +77,9 @@ Gerbert File:
 ![33c6e3d3-62be-4958-8fb5-e9c726f1eecd](https://user-images.githubusercontent.com/43185859/48021885-b3102300-e107-11e8-80c8-58d16e0771ab.jpg)
 
 
-
-
-
 # Week8 (Oct 23)
+
+**Connection and i2c detection-**
 
 I worked on breadboard and soldering. Tested my addrress on RPi and noticed my default address as 0x19.
 
@@ -87,7 +104,7 @@ Connect SDA to  SDA pin on your RPI
 
 
 # Week7 (Oct 16)
-Aquisition-
+**Aquisition-**
 
 The Parts I Recieved in the kit included -
 1 Raspberry Pi 3b+
@@ -101,7 +118,7 @@ The Parts I Recieved in the kit included -
 
 # Week6 (Oct 9)
 
-UML Diagram-
+**UML Diagram-**
 
 I worked with a first year student to make pseudo code for the project and we completed it on time.
 
@@ -113,7 +130,7 @@ Link to Pseudo Code-
 
 
 # Week5 (Oct 2)
-Invoice-
+**Invoice-**
 
 The invoice includes the raspberry pi and my lis3dh sensor ordered by me. 
 
@@ -122,7 +139,7 @@ The invoice includes the raspberry pi and my lis3dh sensor ordered by me.
 
 # Week4 (Sep 25)
 
-Budget:
+**Budget:**
 
 My Budget for this project was upto $200-$300 and while researching for parts , it came all under my budget.
 
@@ -133,7 +150,7 @@ My Budget for this project was upto $200-$300 and while researching for parts , 
 
 
 # Week3 (Sep 18)
-Schedule-
+**Schedule-**
 
 I made a schedule for the project for which i posted the link below.
 
@@ -142,7 +159,7 @@ I made a schedule for the project for which i posted the link below.
 ![47387249-c1f4df80-d6dc-11e8-9725-7fe4e579356e](https://user-images.githubusercontent.com/43185859/48022671-c6bc8900-e109-11e8-933f-ec6e5755b92f.png)
 
 # Week2 (Sep 11)
-Proposal-
+**Proposal-**
 
 I made a proposal for my project for which i posted the link below.
 
