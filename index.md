@@ -27,7 +27,7 @@ The acrylic case printed for my enclosure was a little tight and couldn't house 
 
 # Week11 (Nov 13)
 
-**Power Up:**
+**Power Up and Readings:**
 
 I faced many obstacles with the code and my sensor as I bought a sparkfun sensor which is compatible mostly with arduino microcontroller . So , I have to take it to next level and download some plug-ins and libraries which took some time but finally worked at last.
 
@@ -63,7 +63,7 @@ During the soldering process, I made many shorts but with the help of Vlad, I re
 **PCB Design -**
 
 **Progress Report-**
-I sent my gerbert file to Vlad and it took many attempts to print it due to some minor defects and because other students accidentally taking PCBs thinking its theirs.
+I sent my gerbert file to Vlad and it took many attempts to print it due to some minor defects and because other students accidentally taking PCBs thinking its theirs.Also, many times the Prototype Lab didn't receive my email a few times.
 
 **Gerbert File:**
 
@@ -81,22 +81,13 @@ I sent my gerbert file to Vlad and it took many attempts to print it due to some
 
 **Connection and i2c detection-**
 
-I worked on breadboard and soldering. Tested my addrress on RPi and noticed my default address as 0x19.
+I connected the 3V pin to the Positive Power Rails(+) and Ground to the Negative Power Rails(-).
+I connected the SCL pin of the Pi to SCL of the sensor and SDA pin of Pi to SDA on the sensor.
+After starting my Pi,I used the command "i2cdetect -y 1" in terminal and I got my address to be 0x19.
 
-Steps :
+**Progress Report-**
 
-Solder your sensor
-
-Follow the RPI Header reference for your pinout to breadboard
-
-Look for the 3V/5V pin from your Rpi and connect it to breadboard 
-
-Connect VCC to 3V power supply and GND to common ground
-
-Now connect your SCL to SCL pin on your RPi
-
-Connect SDA to  SDA pin on your RPI
-
+There was no problem in getting the address of the i2c bus as from the first time,the connections were right.
 
 ![i2c_bb](https://user-images.githubusercontent.com/43185859/48022114-4d706680-e108-11e8-8b9d-90162020e282.jpg)
 
