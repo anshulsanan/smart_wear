@@ -120,10 +120,14 @@ Budget:
 # Week3 (Sep 18)
 Schedule-
 
+
+
 ![47387249-c1f4df80-d6dc-11e8-9725-7fe4e579356e](https://user-images.githubusercontent.com/43185859/48022671-c6bc8900-e109-11e8-933f-ec6e5755b92f.png)
 
 # Week2 (Sep 11)
 Proposal-
+
+(https://github.com/anshulsanan/smart_wear/files/2622662/ProposalContentStudent.xlsx)
 
 ![capture1](https://user-images.githubusercontent.com/43185859/48022555-75ac9500-e109-11e8-8790-4d3f4d5bbddd.PNG)
 
