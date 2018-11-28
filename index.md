@@ -33,10 +33,7 @@ I faced many obstacles with the code and my sensor as I bought a sparkfun sensor
 
 
 # Week10 (Nov 6)
-## Lunn
-### Lunn
-#### Lunn
-##### Lunn
+
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
 ![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
 ![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
