@@ -1,6 +1,6 @@
 # Week13 (Nov 27)
 
-Presentation Week:
+**Presentation Week:**
 
 [LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2622157/LIS3DH.pptx)
 
@@ -12,7 +12,7 @@ Presentation Week:
 ![img_20181127_154822](https://user-images.githubusercontent.com/43185859/49110787-662df100-f25c-11e8-9b44-da08c71257b2.jpg)
 ![img_20181127_154824](https://user-images.githubusercontent.com/43185859/49110788-662df100-f25c-11e8-86cd-19be71ad2ddc.jpg)
 
-CorelDraw File :
+**CorelDraw File :**
 
 [Anshul_CorelFile.zip](https://github.com/anshulsanan/smart_wear/files/2621935/Anshul_CorelFile.zip)
 
@@ -20,18 +20,23 @@ CorelDraw File :
 
 
 # Week11 (Nov 13)
-Power Up:
+**Power Up:**
 
 
 I faced many obstacles with the code and my sensor as I bought a sparkfun sensor which is compatible mostly with arduino microcontroller . So , I have to take it to next level and download some plug-ins and libraries which took some time but finally worked at last.
 
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
-Files Used:
+**Files Used:**
+
 [LIS3DH.zip](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
 
 
 # Week10 (Nov 6)
+## Lunn
+### Lunn
+#### Lunn
+##### Lunn
 ![img_20181127_125248](https://user-images.githubusercontent.com/43185859/49110983-e6545680-f25c-11e8-90ee-d589fa343b9c.jpg)
 ![img_20181127_125306](https://user-images.githubusercontent.com/43185859/49110984-e6545680-f25c-11e8-8166-9b20dbacd200.jpg)
 ![img_20181127_125310](https://user-images.githubusercontent.com/43185859/49110985-e6545680-f25c-11e8-9ffc-416bb18ab27e.jpg)
