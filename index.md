@@ -104,12 +104,16 @@ UML Diagram-
 # Week5 (Oct 2)
 Invoice-
 
+The invoice includes the raspberry pi , lis3dh sensor and 
+
 ![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
 
 
 # Week4 (Sep 25)
 
 Budget:
+
+My Budget for this project was upto $200-$300 and while researching for parts , it came all under my budget.
 
 [Budget.docx](https://github.com/anshulsanan/smart_wear/files/2550329/Budget.docx)
 
@@ -120,12 +124,16 @@ Budget:
 # Week3 (Sep 18)
 Schedule-
 
+I made a schedule for the project for which i posted the link below.
 
+[Schedule.zip](https://github.com/anshulsanan/smart_wear/files/2622669/Schedule.zip)
 
 ![47387249-c1f4df80-d6dc-11e8-9725-7fe4e579356e](https://user-images.githubusercontent.com/43185859/48022671-c6bc8900-e109-11e8-933f-ec6e5755b92f.png)
 
 # Week2 (Sep 11)
 Proposal-
+
+I made a proposal for my project for which i posted the link below.
 
 (https://github.com/anshulsanan/smart_wear/files/2622662/ProposalContentStudent.xlsx)
 
