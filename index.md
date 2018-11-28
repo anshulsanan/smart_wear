@@ -41,6 +41,9 @@ Files Used:
 
 
 # Week9 (Oct 30)
+PCB Printing -
+
+I sent my gerbert file to Vlad and it took many attempts to print it due to some minor defects and because other students accidentally taking PCBs thinking its theirs.
 
 Gerbert File:
 
@@ -82,9 +85,9 @@ Connect SDA to  SDA pin on your RPI
 
 
 # Week7 (Oct 16)
-Aquisition 
+Aquisition-
 
-Parts Ordered:
+The Parts I Recieved in the kit included -
 1 Raspberry Pi 3b+
 
 ![770a5842-1612x1080](https://user-images.githubusercontent.com/43185859/49117549-14db2d00-f26f-11e8-916a-be875860f58f.jpg)
@@ -98,13 +101,19 @@ Parts Ordered:
 
 UML Diagram-
 
+I worked with a first year student to make pseudo code for the project and we completed it on time.
+
+Link to Pseudo Code-
+
+[Pseudo Code.pdf](https://github.com/anshulsanan/smart_wear/files/2622681/Pseudo.Code.pdf)
+
 ![capture](https://user-images.githubusercontent.com/43185859/49117469-c75ec000-f26e-11e8-89de-af591b191b37.PNG)
 
 
 # Week5 (Oct 2)
 Invoice-
 
-The invoice includes the raspberry pi , lis3dh sensor and 
+The invoice includes the raspberry pi and my lis3dh sensor ordered by me. 
 
 ![anshul](https://user-images.githubusercontent.com/43185859/46379071-b5e0a980-c66b-11e8-9678-66c474e7509c.PNG)
 
