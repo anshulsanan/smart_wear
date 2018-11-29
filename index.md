@@ -35,6 +35,8 @@ I faced many obstacles with the code and my sensor as I bought a sparkfun sensor
 
 I chose a sparkfun sensor and because of its inavailibility of python files, I had to make changes to the files of same sensor provided by Adafruit which worked successfully for me.The piduino library support ,toolchain and StackOverflow helped me to get the readings.
 
+![whatsapp image 2018-11-28 at 7 43 48 pm](https://user-images.githubusercontent.com/43185859/49191801-20e5ee00-f346-11e8-9abf-355269255ad0.jpeg)
+
 ![lis3dh](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
 **Files Used:**
