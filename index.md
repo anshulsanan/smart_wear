@@ -72,11 +72,12 @@ I sent my gerbert file to Vlad and it took many attempts to print it due to some
 [Accelerometer.zip](https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip)
 
 
-![whatsapp image 2018-11-05 at 2 25 06 pm 1](https://user-images.githubusercontent.com/43185859/48021714-43019d00-e107-11e8-8637-334db220a56a.jpeg)
+![lis3dh_bb](https://user-images.githubusercontent.com/43185859/49475845-51b2a100-f7e6-11e8-800d-32ebd0fb83da.jpg)
 
-![whatsapp image 2018-11-05 at 2 25 06 pm](https://user-images.githubusercontent.com/43185859/48021784-6d535a80-e107-11e8-9ba3-1162ebdee2af.jpeg)
+![lis3dh_schem](https://user-images.githubusercontent.com/43185859/49475846-524b3780-f7e6-11e8-9254-3ba5e6579e21.jpg)
 
-![33c6e3d3-62be-4958-8fb5-e9c726f1eecd](https://user-images.githubusercontent.com/43185859/48021885-b3102300-e107-11e8-80c8-58d16e0771ab.jpg)
+![lis3dh_pcb](https://user-images.githubusercontent.com/43185859/49475847-524b3780-f7e6-11e8-89f2-b46c55de2339.jpg)
+
 
 
 # Week8 (Oct 23)
