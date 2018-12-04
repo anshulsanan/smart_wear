@@ -2,7 +2,7 @@
 
 **Presentation Week:**
 
-[LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2646064/LIS3DH.pptx)
+[LIS3DH.pptx](https://github.com/anshulsanan/smart_wear/files/2646083/LIS3DH.pptx)
 
 # Week12 (Nov 20)
 
