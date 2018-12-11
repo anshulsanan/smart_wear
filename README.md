@@ -26,12 +26,14 @@
 
 #
 
-### Introduction
+## Introduction
 
 LIS3DH is an ultra low-power high performance three axis linear accelerometer belonging to the "nano" family, with digital I2C/SPI serial interface standard output.
 The device features ultra low-power operational modes that allow advanced power saving and smart embedded functions.
 
-#### Part Required and Budget
+#
+
+## Part Required and Budget
 
 The Parts involved includes-:
 
@@ -55,7 +57,11 @@ The Parts involved includes-:
 
 * BreadBoard (Prototype)
 
-#### Time Commitment
+#
+
+## Time Commitment
+
+#
 
 #### Overview
 If you're going to use the Raspberry Pi for any length of time, you'll want to use a case of some sort. If you'll be using the official case made by the Raspberry Pi Foundation you'll want to line up the holes around the edges here of the Pi board with the little raised circular parts on the base of the board. Once lined up the board should just drop into place.
@@ -72,7 +78,7 @@ After you've plugged in all the cables, plug in the power link last. You should 
 
 ### Raspberry Pi Setup
 
-#
+##
 
 #### Operating System Setup
 
@@ -99,7 +105,7 @@ Next, you'll need to copy the image for the operating system for the Raspberry P
 #### Step 6:
 Once the operating system is installed on the SD card, take your board, turn it over. On the underside, you'll see a slot at the rear, which is where the microSD card needs to go. Take the microSD card, then insert it into the slot, gently, until it's firmly sitting inside.
 
-#
+##
 
 #### PowerUp 
 
