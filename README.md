@@ -39,7 +39,33 @@ The Parts involved includes-:
 
 * [Raspberry Pi 3B+ Kit](https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=pc&ie=UTF8&qid=1516324581&sr=1-5&keywords=Raspberry+Pi+3) - CAD$123.05
 
+#### Specifications-:
+* Quad core 64-bit processor clocked at 1.4GHz
+* 1GB LPDDR2 SRAM
+* Dual-band 2.4GHz and 5GHz wireless LAN
+* Bluetooth 4.2 / BLE
+* Higher speed ethernet up to 300Mbps
+* Power-over-Ethernet capability (via a separate PoE HAT)
+
+
 * [LIS3DH 3-Axis Accelerometer](https://www.sparkfun.com/products/13963) - CAD$21.20
+
+#### Specifications:-
+ Wide supply voltage, 1.71 V to 3.6 V
+ Independent IO supply (1.8 V) and supply voltage compatible
+ Ultra-low-power mode consumption down to 2 μA
+ 2g/±4g/8g/16g dynamically selectable full scale
+ I 2C/SPI digital output interface
+ 16-bit data output
+ 2 independent programmable interrupt generators for free-fall and motion detection
+ 6D/4D orientation detection
+ Free-fall detection
+ Motion detection
+ Embedded temperature sensor
+ Embedded self-test
+ Embedded 32 levels of 16-bit data output FIFO
+ 10000 g high shock survivability
+ ECOPACK®, RoHS and “Green” compliant 
 
 #### Additional Parts
 
@@ -60,6 +86,7 @@ The Parts involved includes-:
 #
 
 ## Time Commitment
+
 
 #
 
