@@ -29,10 +29,19 @@ The Parts involved includes-:
 
 * [LIS3DH 3-Axis Accelerometer](https://www.sparkfun.com/products/13963) - CAD$21.20
 
+#### Additional Parts
+
 * Soldering Iron
 
-* 
+* Parts Kit(For Wire Strippers and Cables)
 
+#### Optional
+
+* Case (Can be Acrylic or Metal)
+
+* PCB
+
+* BreadBoard (Prototype)
 
 ![Image of Parts]()
 
