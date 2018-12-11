@@ -23,8 +23,10 @@ The device features ultra low-power operational modes that allow advanced power 
 
 The Parts involved include-:
 ![Image of Raspberry Pi 3B+](https://user-images.githubusercontent.com/43185859/49830391-099ffb00-fd5f-11e8-8399-b6a9662b3610.jpg)
+
 * [Raspberry Pi 3 Kit](https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=pc&ie=UTF8&qid=1516324581&sr=1-5&keywords=Raspberry+Pi+3) - CAD$123.05
 
+![Image of LIS3DH Sensor](https://user-images.githubusercontent.com/43185859/49830491-4ec42d00-fd5f-11e8-8388-345c3a511bbd.jpg)
 * [LIS3DH 3-Axis Accelerometer](https://www.sparkfun.com/products/13963) - CAD$21.20
 
 
