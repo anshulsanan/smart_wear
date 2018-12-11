@@ -33,7 +33,9 @@ The Parts involved includes-:
 
 * Soldering Iron
 
-* [Parts Kit(For Wire Strippers and Cables)](https://www.circuitspecialists.com/circuits-basic-electronics-parts-kit.html)
+* [Parts Kit(Cables)](https://www.circuitspecialists.com/circuits-basic-electronics-parts-kit.html)
+
+* [Wire Strippers]https://www.circuitspecialists.com/heavy-duty-wire-strippers.html
 
 #### Optional
 
