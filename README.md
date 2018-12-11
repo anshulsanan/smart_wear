@@ -45,10 +45,6 @@ The Parts involved includes-:
 
 * BreadBoard (Prototype)
 
-![Image of Parts]()
-
-
-
 ### Design Files
 
 
