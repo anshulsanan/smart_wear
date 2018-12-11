@@ -155,8 +155,12 @@ A power indicator light will begin to glow, letting you know that you are connec
 * Connect GND on the Raspberry Pi to GND of the Sensor 
 * Connect SCL(GPIO3) on the Raspberry Pi to SCL of the Sensor
 * Connect SDA(GPIO2) on the Raspberry Pi to SCL of the Sensor
+#
+### I2C Detection
 
+Next, to ensure the LIS3DH has been connected properly for I2C communications, the following command should be entered in to the Pi's terminal: *sudo i2cdetect -y 1*. This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the MAG3110 uses is 0x0e.
 
+[I2C Reading](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
 #
 
 ## Testing
