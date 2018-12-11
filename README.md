@@ -6,13 +6,17 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 
-2. [Time Commitment](#time-commitment)
+2. [Parts Required and Budget](#parts)
 
-3. [Structure of my Project](structure-of-my-project)
+3. [Time Commitment](#time-commitment)
 
-4. [Parts Required and Budget](#parts)
+4. [Raspberry Pi Setup](#raspberry-pi-setup)
 
-5. [Raspberry Pi Setup](#raspberry-pi-setup)
+5. [Structure of my Project](structure-of-my-project)
+
+
+
+
 
 6. [Assembling and Soldering](#assembling-and-soldering)
 
@@ -94,22 +98,9 @@ This project can be made in less than 3 weeks if the creator is experienced and 
 
 #
 
-#### Overview
-If you're going to use the Raspberry Pi for any length of time, you'll want to use a case of some sort. If you'll be using the official case made by the Raspberry Pi Foundation you'll want to line up the holes around the edges here of the Pi board with the little raised circular parts on the base of the board. Once lined up the board should just drop into place.
-
-Next you want to clip on the top, take the top and press it down into the slots until you hear it click. Next, you want to put in the side panels, lining them up with the appropriate hole in the side of the case and pushing them in until you hear click. You now have a finished Raspberry Pi case.
-
-On the side of the case are three ports for the Raspberry Pi 3 Model B+. On the left hand side, you've got a micro USB port for which the Raspberry Pi Foundation recommends a 2.5A, 5V power supply. In the middle, you've got a full-sized HDMI port for hooking up TVs or monitors to the Raspberry Pi. On the far end, you've got a stereo output and composite video ports, which gives you even more audio visual options.
-
-On the rear of the case, you can see, you've got the remaining ports here. On the left hand side is the Ethernet port. This is where you'll want to hook up any wired network connections to the device, if you're not using the on-board Wi-Fi. You can also see here the four USB 2.0 ports. This is where you want to connect your mouse or keyboard to the Raspberry Pi, unless you're using a Bluetooth mouse or keyboard, that is. That's it for the ports, and next we'll start up the device.
-
-After you've plugged in all the cables, plug in the power link last. You should see the system boot up like so. It takes no longer than about five to 10 seconds to boot to the desktop. Once the desktop is loaded, you'll be able to browse all of the software that's included: the LibreOffice suite, the Chromium web browser, a couple of games with a programming theme. Also a whole raft of tools for learning programming. I hope you found this tutorial useful.
+## Raspberry Pi Setup
 
 #
-
-### Raspberry Pi Setup
-
-##
 
 #### Operating System Setup
 
