@@ -14,10 +14,6 @@
 
 5. [Structure of my Project](structure-of-my-project)
 
-
-
-
-
 6. [Assembling and Soldering](#assembling-and-soldering)
 
 7. [Testing](#testing)
@@ -143,10 +139,20 @@ A power indicator light will begin to glow, letting you know that you are connec
 
 #### Step 3:
 
-### Assembly
+#
 
+## Structure of the Project
 
+#
 
-### Test Code
+## Assembling and Soldering
 
-###
+#
+
+## Testing
+
+#
+
+## Final Product
+
+#
