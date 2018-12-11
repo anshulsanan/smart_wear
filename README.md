@@ -153,6 +153,8 @@ A power indicator light will begin to glow, letting you know that you are connec
 Compile and Build the following code to execute the sensor and get readings -:
 
 [LIS3DH 3-Axis Accelerometer Python File](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
+
+
 ![Readings](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
 
 #
