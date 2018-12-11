@@ -38,7 +38,7 @@ The device features ultra low-power operational modes that allow advanced power 
 The Parts involved includes-:
 
 * [Raspberry Pi 3B+ Kit](https://www.amazon.ca/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01CCF6V3A/ref=sr_1_5?s=pc&ie=UTF8&qid=1516324581&sr=1-5&keywords=Raspberry+Pi+3) - CAD$123.05
-####
+###
 #### Specifications-:
 * Quad core 64-bit processor clocked at 1.4GHz
 * 1GB LPDDR2 SRAM
@@ -47,7 +47,7 @@ The Parts involved includes-:
 * Higher speed ethernet up to 300Mbps
 * Power-over-Ethernet capability (via a separate PoE HAT)
 
-####
+###
 * [LIS3DH 3-Axis Accelerometer](https://www.sparkfun.com/products/13963) - CAD$21.20
 
 #### Specifications:-
@@ -87,6 +87,11 @@ The Parts involved includes-:
 
 ## Time Commitment
 
+The Project was made in the time frame of 15 weeks involving troubleshooting of many hardware components and software applications.
+This project can be made in less than 3 weeks if the creator is experienced and parts are easily accessible to them.
+You can refer to my schedule for more details :
+*
+![Image of Schedule](https://user-images.githubusercontent.com/43185859/49835353-e9773880-fd6c-11e8-879f-81fe9c096283.png)
 
 #
 
