@@ -55,11 +55,11 @@ The B+ is an improvement over the Raspberry Pi 3 Model B, increasing the speed o
 When you're setting up the microSD card, you may need to use a microSD adapter. To begin setting this up, just slot the microSD card into the back of the microSD card adapter. To install the operating system on the microSD card, you'll need to use either an SD card reader/writer or you'll have a slot on your laptop for an SD card. In this instance, you take the SD card adapter and slot it into the reader. Then plug that reader into the computer and install the OS onto the microSD card.
 
 #### Step 2:
-Download [Raspberry Operating System](https://www.raspberrypi.org/downloads/). 
-Scroll down and click on the Raspbian operating system, which is the official operating system for the Raspberry Pi. Scroll down, and you'll see 'Raspbian Stretch with desktop'.Click your download of choice and wait for the download to complete.
+Go to [Raspberry Operating System](https://www.raspberrypi.org/downloads/). 
+You can either download NOOBS or RASPBIAN. Click your download of choice and wait for the download to complete.
 
 #### Step 3:
-Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
+Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).
 
 #### Step 4:
 Once the download is complete, you should see Win 32 Disk Imager appear at the bottom of the window. Left click, and install Win 32 Disk Imager on the machine.
