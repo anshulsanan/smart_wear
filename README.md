@@ -89,7 +89,8 @@ The Parts involved includes-:
 
 The Project was made in the time frame of 15 weeks involving troubleshooting of many hardware components and software applications.
 This project can be made in less than 3 weeks if the creator is experienced and parts are easily accessible to them.
-#You can refer to my schedule for more details :
+
+You can refer to my schedule for more details :
 *
 ![Image of Schedule](https://user-images.githubusercontent.com/43185859/49835353-e9773880-fd6c-11e8-879f-81fe9c096283.png)
 
