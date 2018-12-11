@@ -56,7 +56,7 @@ When you're setting up the microSD card, you may need to use a microSD adapter. 
 
 #### Step 2:
 Go to [Raspberry Operating System](https://www.raspberrypi.org/downloads/). 
-You can either download NOOBS or RASPBIAN. Click your download of choice and wait for the download to complete.
+You can either download NOOBS or RASPBIAN.Click your download of choice and wait for the download to complete.I will assume that RASPBIAN is downloaded.
 
 #### Step 3:
 Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) and install it on your computer.
