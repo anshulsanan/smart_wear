@@ -57,8 +57,8 @@ On the rear of the case, you can see, you've got the remaining ports here. On th
 
 After you've plugged in all the cables, plug in the power link last. You should see the system boot up like so. It takes no longer than about five to 10 seconds to boot to the desktop. Once the desktop is loaded, you'll be able to browse all of the software that's included: the LibreOffice suite, the Chromium web browser, a couple of games with a programming theme. Also a whole raft of tools for learning programming. I hope you found this tutorial useful.
 
-
-
+#
+#
 
 ### Raspberry Pi Setup
 This is the latest board in the Raspberry Pi range, the Raspberry Pi 3 Model B+.
