@@ -159,8 +159,10 @@ A power indicator light will begin to glow, letting you know that you are connec
 ### I2C Detection
 
 Next, to ensure the LIS3DH has been connected properly for I2C communications, the following command should be entered in to the Pi's terminal: 
-
+```
 sudo i2cdetect -y 1
+
+```
 
 This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the LIS3DH uses is 0x19.
 
