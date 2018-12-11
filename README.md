@@ -150,9 +150,15 @@ A power indicator light will begin to glow, letting you know that you are connec
 #
 
 ## Testing
+Compile and Build the following code to execute the sensor and get readings -:
+[LIS3DH 3-Axis Accelerometer Python File]()
 
 #
 
 ## Final Product
+
+#
+
+## Resources
 
 #
