@@ -29,6 +29,8 @@ The Parts involved includes-:
 
 * [LIS3DH 3-Axis Accelerometer](https://www.sparkfun.com/products/13963) - CAD$21.20
 
+* []
+
 
 ![Image of Parts]()
 
