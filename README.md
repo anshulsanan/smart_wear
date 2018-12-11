@@ -146,6 +146,16 @@ A power indicator light will begin to glow, letting you know that you are connec
 #
 
 ## Assembling and Soldering
+#
+### Pinout
+![PinOut](https://user-images.githubusercontent.com/43185859/49836083-60adcc00-fd6f-11e8-8d52-28c39597ddc8.png)
+
+
+* Connect 3.3V on the Raspberry Pi to VCC of the Sensor
+* Connect GND on the Raspberry Pi to GND of the Sensor 
+* Connect SCL(GPIO3) on the Raspberry Pi to SCL of the Sensor
+* Connect SDA(GPIO2) on the Raspberry Pi to SCL of the Sensor
+
 
 #
 
