@@ -6,13 +6,23 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 
-2. [Parts](#parts)
+2. [Time Commitment](#time-commitment)
 
-3. [Raspberry Pi Setup](#raspberry-pi-setup)
+3. [Structure of my Project](structure-of-my-project)
 
-4. [Assembly](#assembly)
+4. [Parts Required and Budget](#parts)
 
-5. [Test Code](#test-code)
+5. [Raspberry Pi Setup](#raspberry-pi-setup)
+
+6. [Assembling and Soldering](#assembling-and-soldering)
+
+7. [Testing](#testing)
+
+8. [Final Product](#final-product)
+
+9. [Resources](#resources)
+
+
 
 #
 
@@ -21,7 +31,7 @@
 LIS3DH is an ultra low-power high performance three axis linear accelerometer belonging to the "nano" family, with digital I2C/SPI serial interface standard output.
 The device features ultra low-power operational modes that allow advanced power saving and smart embedded functions.
 
-#### Parts
+#### Part Required and Budget
 
 The Parts involved includes-:
 
@@ -45,6 +55,7 @@ The Parts involved includes-:
 
 * BreadBoard (Prototype)
 
+#### Time Commitment
 
 #### Overview
 If you're going to use the Raspberry Pi for any length of time, you'll want to use a case of some sort. If you'll be using the official case made by the Raspberry Pi Foundation you'll want to line up the holes around the edges here of the Pi board with the little raised circular parts on the base of the board. Once lined up the board should just drop into place.
@@ -60,10 +71,10 @@ After you've plugged in all the cables, plug in the power link last. You should 
 #
 
 ### Raspberry Pi Setup
-This is the latest board in the Raspberry Pi range, the Raspberry Pi 3 Model B+.
 
-The B+ is an improvement over the Raspberry Pi 3 Model B, increasing the speed of the processor to 1.4GHz, adding support for wireless ac Wi-Fi, for Bluetooth 4.2, for faster Ethernet, and Power over Ethernet [POE] capability via a separate POE add-on.
+#
 
+#### Operating System Setup
 
 #### Step 1: 
 When you're setting up the microSD card, you may need to use a microSD adapter. To begin setting this up, just slot the microSD card into the back of the microSD card adapter. To install the operating system on the microSD card, you'll need to use either an SD card reader/writer or you'll have a slot on your laptop for an SD card. In this instance, you take the SD card adapter and slot it into the reader. Then plug that reader into the computer and install the OS onto the microSD card.
@@ -88,8 +99,21 @@ Next, you'll need to copy the image for the operating system for the Raspberry P
 #### Step 6:
 Once the operating system is installed on the SD card, take your board, turn it over. On the underside, you'll see a slot at the rear, which is where the microSD card needs to go. Take the microSD card, then insert it into the slot, gently, until it's firmly sitting inside.
 
+#
 
+#### PowerUp 
 
+#### Step 1:
+Plug the USB keyboard and mouse into the USB ports of the Raspberry Pi.
+Plug the HDMI or video component cable into the monitor or TV set used.
+Insert the Ethernet Cable from Raspberry Pi to one on your computer.
+
+#### Step 2:
+Turn on your monitor or TV set and make sure it is set to the proper input (e.g. HDMI 1 or HDMI 2) and also
+connect the power supply to your Raspberry Pi .
+A power indicator light will begin to glow, letting you know that you are connected,
+
+#### Step 3:
 
 ### Assembly
 
