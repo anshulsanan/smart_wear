@@ -8,7 +8,7 @@
 
 2. [Parts](#parts)
 
-3. [Design Files](#design-files)
+3. [Raspberry Pi Setup](#raspberry-pi-setup)
 
 4. [Assembly](#assembly)
 
@@ -21,7 +21,7 @@
 LIS3DH is an ultra low-power high performance three axis linear accelerometer belonging to the "nano" family, with digital I2C/SPI serial interface standard output.
 The device features ultra low-power operational modes that allow advanced power saving and smart embedded functions.
 
-### Parts
+#### Parts
 
 The Parts involved includes-:
 
@@ -45,8 +45,50 @@ The Parts involved includes-:
 
 * BreadBoard (Prototype)
 
-### Design Files
+### Raspberry Pi Setup
+This is the latest board in the Raspberry Pi range, the Raspberry Pi 3 Model B+.
 
+The B+ is an improvement over the Raspberry Pi 3 Model B, increasing the speed of the processor to 1.4GHz, adding support for wireless ac Wi-Fi, for Bluetooth 4.2, for faster Ethernet, and Power over Ethernet [POE] capability via a separate POE add-on.
+
+
+#### Step 1: 
+When you're setting up the microSD card, you may need to use a microSD adapter. To begin setting this up, just slot the microSD card into the back of the microSD card adapter. To install the operating system on the microSD card, you'll need to use either an SD card reader/writer or you'll have a slot on your laptop for an SD card. In this instance, you take the SD card adapter and slot it into the reader. Then plug that reader into the computer and install the OS onto the microSD card.
+
+#### Step 2:
+Next, you'll need to download the operating system for your Pi B+. Go to raspberrypi.org/downloads/. Scroll down and click on the Raspbian operating system, which is the official operating system for the Raspberry Pi. Scroll down, and you'll see 'Raspbian Stretch with desktop'. You've now got two options. You can either download it as a torrent or download a zip file. Click your download of choice and wait for the download to complete.
+
+#### Step 3:
+Next, you need to download a program to copy the image for the operating system for the Raspberry Pi onto the microSD card. Go to sourceforge.net, and search for 'Win32 Disk Imager'. Scroll down and go to the top result beneath the grey-shaded adverts and left click. Next, left click 'Download'.
+
+#### Step 4:
+Once the download is complete, you should see Win 32 Disk Imager appear at the bottom of the window. Left click, and install Win 32 Disk Imager on the machine.
+
+#### Step 5:
+Once you've downloaded the Raspberry Pi operating system, go to your Windows 10 downloads folder, and look for a file with the words Raspbian Stretch in it. Right click on that file, and click on 'Extract all' and then 'Extract'.
+
+After some time, you should have a folder with the same name appear next to the file. If you look inside, you can see the image file for the Raspberry Pi operating system. You'll now need to copy that over to the microSD card.
+
+#### Step 6:
+To copy your operating system image for the Raspberry Pi over to the microSD card, take your SD card reader from earlier, and plug it into a USB port on the computer. Alternatively, you can place the SD card into a card reader in your laptop.
+
+Next, you'll need to copy the image for the operating system for the Raspberry Pi over to the microSD card. Open up Win 32 Disk Imager that you installed earlier, and you will see a window. Click on the blue folder icon, and find the image for the Raspbian Stretch operating system and then click 'Open'. Next, you need to pick the Device, by selecting the letter corresponding to the SD card reader. You'll see this letter appear inside Windows File Explorer when you plug the SD card reader in. Once that's selected then click 'Write'. Then wait some time, while the operating system is copied over to the SD card.
+
+#### Step 7:
+Once the operating system is installed on the SD card, take your board, turn it over. On the underside, you'll see a slot at the rear, which is where the microSD card needs to go. Take the microSD card, then insert it into the slot, gently, until it's firmly sitting inside.
+
+#### Step 8:
+If you're going to use the Raspberry Pi for any length of time, you'll want to use a case of some sort. If you'll be using the official case made by the Raspberry Pi Foundation you'll want to line up the holes around the edges here of the Pi board with the little raised circular parts on the base of the board. Once lined up the board should just drop into place.
+
+#### Step 9:
+Next you want to clip on the top, take the top and press it down into the slots until you hear it click. Next, you want to put in the side panels, lining them up with the appropriate hole in the side of the case and pushing them in until you hear click. You now have a finished Raspberry Pi case.
+
+#### Step 10:
+On the side of the case are three ports for the Raspberry Pi 3 Model B+. On the left hand side, you've got a micro USB port for which the Raspberry Pi Foundation recommends a 2.5A, 5V power supply. In the middle, you've got a full-sized HDMI port for hooking up TVs or monitors to the Raspberry Pi. On the far end, you've got a stereo output and composite video ports, which gives you even more audio visual options.
+
+On the rear of the case, you can see, you've got the remaining ports here. On the left hand side is the Ethernet port. This is where you'll want to hook up any wired network connections to the device, if you're not using the on-board Wi-Fi. You can also see here the four USB 2.0 ports. This is where you want to connect your mouse or keyboard to the Raspberry Pi, unless you're using a Bluetooth mouse or keyboard, that is. That's it for the ports, and next we'll start up the device.
+
+#### Step 11:
+After you've plugged in all the cables, plug in the power link last. You should see the system boot up like so. It takes no longer than about five to 10 seconds to boot to the desktop. Once the desktop is loaded, you'll be able to browse all of the software that's included: the LibreOffice suite, the Chromium web browser, a couple of games with a programming theme. Also a whole raft of tools for learning programming. I hope you found this tutorial useful.
 
 
 
