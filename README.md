@@ -59,13 +59,10 @@ Go to [Raspberry Operating System](https://www.raspberrypi.org/downloads/).
 You can either download NOOBS or RASPBIAN. Click your download of choice and wait for the download to complete.
 
 #### Step 3:
-Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).
+Download [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) and install it on your computer.
 
 #### Step 4:
-Once the download is complete, you should see Win 32 Disk Imager appear at the bottom of the window. Left click, and install Win 32 Disk Imager on the machine.
-
-#### Step 5:
-Once you've downloaded the Raspberry Pi operating system, go to your Windows 10 downloads folder, and look for a file with the words Raspbian Stretch in it. Right click on that file, and click on 'Extract all' and then 'Extract'.
+Once you've downloaded the Raspberry Pi operating system, go to your Downloads folder and right click on that file, and click on 'Extract'  using [WinRaR](https://www.rarlab.com/download.htm).
 
 After some time, you should have a folder with the same name appear next to the file. If you look inside, you can see the image file for the Raspberry Pi operating system. You'll now need to copy that over to the microSD card.
 
