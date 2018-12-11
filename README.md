@@ -35,7 +35,7 @@ The Parts involved includes-:
 
 * [Parts Kit(Cables)](https://www.circuitspecialists.com/circuits-basic-electronics-parts-kit.html)
 
-* [Wire Strippers]https://www.circuitspecialists.com/heavy-duty-wire-strippers.html
+* [Wire Strippers](https://www.circuitspecialists.com/heavy-duty-wire-strippers.html)
 
 #### Optional
 
