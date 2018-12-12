@@ -155,7 +155,8 @@ A power indicator light will begin to glow, letting you know that you are connec
 * Connect GND on the Raspberry Pi to GND of the Sensor 
 * Connect SCL(GPIO3) on the Raspberry Pi to SCL of the Sensor
 * Connect SDA(GPIO2) on the Raspberry Pi to SCL of the Sensor
-#
+![whatsapp image 2018-12-11 at 8 37 01 pm](https://user-images.githubusercontent.com/43185859/49841188-9e691f80-fd84-11e8-8f8d-2ee5c1502a8d.jpeg)
+
 ### I2C Detection
 
 Next, to ensure the LIS3DH has been connected properly for I2C communications, the following command should be entered in to the Pi's terminal: 
