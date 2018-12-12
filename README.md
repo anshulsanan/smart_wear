@@ -191,7 +191,8 @@ https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip
 
 3. Clean iron that builds oxide layer, which inhibits heat transfer and solder adhesion using sponge wire.
 
-![image](https://user-images.githubusercontent.com/42980862/49781575-43cab780-fce1-11e8-95ad-500c5b4705eb.png)
+![images](https://user-images.githubusercontent.com/43185859/49843906-d5dcc980-fd8e-11e8-8bf2-ee21a8c25a8f.jpeg)
+
 
 4. Apply heat and solder (soldering time sometimes varies)
 
