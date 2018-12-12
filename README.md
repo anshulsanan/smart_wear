@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 
-2. [Parts Required and Budget](#parts)
+2. [Parts Required and Budget](#Part-Required-and-Budget)
 
 3. [Time Commitment](#time-commitment)
 
