@@ -250,6 +250,10 @@ I made my Enclosure using the help of Prototype Lab at Humber College . But if y
 
 ![Enclosure](https://user-images.githubusercontent.com/43185859/49844969-d4150500-fd92-11e8-8d45-bd95c4c54e42.PNG)
 
+# Production-Testing
+
+For the Production-testing One has no more need to solder it manually. THE whole Soldering job of the Project can be made automated.
+Also the testing of the sensor can be made automated by moving the sensor to make the axis of the sensor to change.
 
 
 #
