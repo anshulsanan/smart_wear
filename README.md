@@ -16,7 +16,7 @@
 
 6. [Assembling ](#assembling)
 
-7. [Soldering ](# Soldering)
+7. [Soldering ](#Soldering)
 
 8. [Testing](#testing)
 
