@@ -26,9 +26,6 @@
 
 * [Final Product](#final-product)
 
-* [Resources](#resources)
-
-
 
 #
 
@@ -264,8 +261,3 @@ Also the testing of the sensor can be made automated by moving the sensor to mak
 ![Final Product](https://user-images.githubusercontent.com/43185859/49110782-662df100-f25c-11e8-8278-cf184d9ccf36.jpg)
 
 
-#
-
-## Resources
-
-#
