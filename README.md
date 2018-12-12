@@ -139,11 +139,10 @@ A power indicator light will begin to glow, letting you know that you are connec
 
 #### Step 3:
 
-#
-
 ## Structure of the Project
 
-#
+![49117469-c75ec000-f26e-11e8-89de-af591b191b37](https://user-images.githubusercontent.com/43185859/49842474-b5f6d700-fd89-11e8-9434-e78c4d0f42c8.PNG)
+
 
 ## Assembling and Soldering
 
