@@ -92,11 +92,9 @@ This project can be made in less than 3 weeks if the creator is experienced and 
 
 ![Image of Schedule](https://user-images.githubusercontent.com/43185859/49835353-e9773880-fd6c-11e8-879f-81fe9c096283.png)
 
-#
-
 ## Raspberry Pi Setup
 
-#
+![rpi3b](https://user-images.githubusercontent.com/42980862/49776194-078b5d00-fcc9-11e8-8d61-f96a17dfd31c.PNG)
 
 #### Operating System Setup
 
@@ -127,6 +125,8 @@ Once the operating system is installed on the SD card, take your board, turn it 
 
 #### PowerUp 
 
+![mfg_sen-13963_sml](https://user-images.githubusercontent.com/43185859/49842414-74662c00-fd89-11e8-8832-43866cd63316.jpg)
+
 #### Step 1:
 Plug the USB keyboard and mouse into the USB ports of the Raspberry Pi.
 Plug the HDMI or video component cable into the monitor or TV set used.
@@ -146,7 +146,7 @@ A power indicator light will begin to glow, letting you know that you are connec
 #
 
 ## Assembling and Soldering
-#
+
 ### Pinout
 ![PinOut](https://user-images.githubusercontent.com/43185859/49836083-60adcc00-fd6f-11e8-8d52-28c39597ddc8.png)
 
