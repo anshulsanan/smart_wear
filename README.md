@@ -178,40 +178,39 @@ This will display a simple graphic listing each device connected to the I2C bus 
 
 
 
-Fritzing File:
-https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip
+### [Fritzing File](https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip)
 
 ##### PCB Design:
 ![49475847-524b3780-f7e6-11e8-89f2-b46c55de2339](https://user-images.githubusercontent.com/43185859/49842577-15ed7d80-fd8a-11e8-967e-6661e784ba59.jpg)
 
- After designing the pcb I statred soldering it .
- This are the safety measures one should follow to do proper soldering to the pcb without any acciedent. 
+ After designing the pcb I started soldering it .
+ This are the safety measures one should follow to do proper soldering to the pcb without any accident. 
  ### 5 Steps for Soldering:
 
-1. Heat up your iron (600-700 degrees F or 315-370 degrees C)
+### 1. Heat up your iron (600-700 degrees F or 315-370 degrees C)
 
 ![images](https://user-images.githubusercontent.com/43185859/49843840-85656c00-fd8e-11e8-9c45-8e4c7517fe41.jpeg)
 
-2. Make sure connection are mechanically stable using helping hands to keep parts steady.
+### 2. Make sure connection are mechanically stable using helping hands to keep parts steady.
 
 ![b](https://user-images.githubusercontent.com/42980862/49781552-2b5a9d00-fce1-11e8-82dd-deca47e9e57e.PNG)
 
-3. Clean iron that builds oxide layer, which inhibits heat transfer and solder adhesion using sponge wire.
+### 3. Clean iron that builds oxide layer, which inhibits heat transfer and solder adhesion using sponge wire.
 
 ![images](https://user-images.githubusercontent.com/43185859/49843906-d5dcc980-fd8e-11e8-8bf2-ee21a8c25a8f.jpeg)
 
 
-4. Apply heat and solder (soldering time sometimes varies)
+### 4. Apply heat and solder (soldering time sometimes varies)
 
 ![c](https://user-images.githubusercontent.com/42980862/49781732-dd926480-fce1-11e8-9c6f-daf2468aa2b8.PNG)
 
-5. Inspect the join ( Smooth and shiny surface can be observed using a microscope)
+### 5. Inspect the join ( Smooth and shiny surface can be observed using a microscope)
 
-Top:
+### Top View:
 
 ![49110986-e6545680-f25c-11e8-8d6d-bffd694687bc](https://user-images.githubusercontent.com/43185859/49842849-218d7400-fd8b-11e8-9542-1fad94adba12.jpg)
 
-Botton:
+### Bottom View:
 
 ![49110987-e6545680-f25c-11e8-92ab-5fbddac78d77](https://user-images.githubusercontent.com/43185859/49842865-2baf7280-fd8b-11e8-9b1c-dfb00e3c5f6d.jpg)
 
