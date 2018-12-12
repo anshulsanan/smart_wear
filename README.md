@@ -223,7 +223,9 @@ I made my PCB using the help of Prototype Lab at Humber College . But if you dow
 
 ## Testing
 Compile and Build the following code to execute the sensor and get readings -:
-
+#### * In the Terminal , Go to your folder where LIS3DH.py exists.
+#### * Enter ```python3 LIS3DH.py``` command and compile it.
+#### * Execute the compiled code by typing ```./LIS3DH``` .
 [LIS3DH 3-Axis Accelerometer Python File](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
 
 
