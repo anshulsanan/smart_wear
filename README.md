@@ -166,7 +166,7 @@ Follow all the procedure accordingly and complete the setup . Enable SSH , I2C a
 * Connect GND on the Raspberry Pi to GND of the Sensor 
 * Connect SCL(GPIO3) on the Raspberry Pi to SCL of the Sensor
 * Connect SDA(GPIO2) on the Raspberry Pi to SCL of the Sensor
-![whatsapp image 2018-12-11 at 8 37 01 pm](https://user-images.githubusercontent.com/43185859/49841188-9e691f80-fd84-11e8-8f8d-2ee5c1502a8d.jpeg)
+![Connection](https://user-images.githubusercontent.com/43185859/49841188-9e691f80-fd84-11e8-8f8d-2ee5c1502a8d.jpeg)
 
 ### I2C Detection
 
@@ -181,7 +181,7 @@ This will display a simple graphic listing each device connected to the I2C bus 
 #
 ## Soldering
 
-
+I made my PCB using the help of Prototype Lab at Humber College . But if you download the following fritzing file , you will be able to make the same PCB used by me as the Fritzing is an industry standard software and can be printed out wherever at a local PCB Print Shop or Online.
 
 ### [Fritzing File](https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip)
 
@@ -194,7 +194,7 @@ This will display a simple graphic listing each device connected to the I2C bus 
 
 ### 1. Heat up your iron (600-700 degrees F or 315-370 degrees C)
 
-![images](https://user-images.githubusercontent.com/43185859/49843840-85656c00-fd8e-11e8-9c45-8e4c7517fe41.jpeg)
+![Heat-Iron](https://user-images.githubusercontent.com/43185859/49843840-85656c00-fd8e-11e8-9c45-8e4c7517fe41.jpeg)
 
 ### 2. Make sure connection are mechanically stable using helping hands to keep parts steady.
 
@@ -232,12 +232,15 @@ Compile and Build the following code to execute the sensor and get readings -:
 #
 
 # Enclosure
+I made my Enclosure using the help of Prototype Lab at Humber College . But if you download the following corel draw file , you will be able to make the same corel draw case used by me as the corel draw file is an industry standard and can be printed out wherever a 3D Printer is availible.
+
+[Corel Draw File](https://github.com/anshulsanan/smart_wear/files/2670327/Anshul_CorelFile.zip)
 
 ![Enclosure](https://user-images.githubusercontent.com/43185859/49844967-d37c6e80-fd92-11e8-8ae6-85376e5acf01.jpg)
 
 ![Enclosure](https://user-images.githubusercontent.com/43185859/49844969-d4150500-fd92-11e8-8d45-bd95c4c54e42.PNG)
 
-[Corel Draw File](https://github.com/anshulsanan/smart_wear/files/2670327/Anshul_CorelFile.zip)
+
 
 #
 
