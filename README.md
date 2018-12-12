@@ -181,7 +181,7 @@ https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip
  This are the safety measures one should follow to do proper soldering to the pcb without any acciedent. 
  ### 5 Steps for Soldering:
 
-1. Heat up your iron (600-700 degrees F or 315-370 degrees C)(file:///C:/Users/n01203103/Downloads/download.webp)
+1. Heat up your iron (600-700 degrees F or 315-370 degrees C)![b](file:///C:/Users/n01203103/Downloads/download.webp)
 
 2. Make sure connection are mechanically stable using helping hands to keep parts steady.
 
