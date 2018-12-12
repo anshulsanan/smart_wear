@@ -178,8 +178,6 @@ sudo i2cdetect -y 1
 This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the LIS3DH uses is 0x19.
 
 ![I2C Reading](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
-#
-## Soldering
 
 I made my PCB using the help of Prototype Lab at Humber College . But if you download the following fritzing file , you will be able to make the same PCB used by me as the Fritzing is an industry standard software and can be printed out wherever at a local PCB Print Shop or Online.
 
@@ -187,6 +185,8 @@ I made my PCB using the help of Prototype Lab at Humber College . But if you dow
 
 ##### PCB Design:
 ![49475847-524b3780-f7e6-11e8-89f2-b46c55de2339](https://user-images.githubusercontent.com/43185859/49842577-15ed7d80-fd8a-11e8-967e-6661e784ba59.jpg)
+#
+## Soldering
 
  After designing the pcb I started soldering it .
  This are the safety measures one should follow to do proper soldering to the pcb without any accident. 
