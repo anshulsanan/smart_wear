@@ -140,11 +140,17 @@ connect the power supply to your Raspberry Pi .
 A power indicator light will begin to glow, letting you know that you are connected,
 
 #### Step 3:
+Follow all the procedure accordingly and complete the setup . Enable SSH , I2C and VNC in system configurations in the UI of PI.
+
+### You have successfully completed the setup!!
+
+#
 
 ## Structure of the Project
 
 ![49117469-c75ec000-f26e-11e8-89de-af591b191b37](https://user-images.githubusercontent.com/43185859/49842474-b5f6d700-fd89-11e8-9434-e78c4d0f42c8.PNG)
 
+#
 
 ## Assembling 
 
@@ -167,6 +173,7 @@ sudo i2cdetect -y 1
 This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the LIS3DH uses is 0x19.
 
 ![I2C Reading](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
+#
 ## Soldering
 
 
@@ -208,6 +215,7 @@ Botton:
 
 ![49110987-e6545680-f25c-11e8-92ab-5fbddac78d77](https://user-images.githubusercontent.com/43185859/49842865-2baf7280-fd8b-11e8-9b1c-dfb00e3c5f6d.jpg)
 
+#
 
 ## Testing
 Compile and Build the following code to execute the sensor and get readings -:
@@ -216,6 +224,10 @@ Compile and Build the following code to execute the sensor and get readings -:
 
 
 ![Readings](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
+
+#
+
+# Enclosure
 
 #
 
