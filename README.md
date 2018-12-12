@@ -201,9 +201,11 @@ https://github.com/anshulsanan/smart_wear/files/2621943/Accelerometer.zip
 5. Inspect the join ( Smooth and shiny surface can be observed using a microscope)
 
 Top:
+
 ![49110986-e6545680-f25c-11e8-8d6d-bffd694687bc](https://user-images.githubusercontent.com/43185859/49842849-218d7400-fd8b-11e8-9542-1fad94adba12.jpg)
 
 Botton:
+
 ![49110987-e6545680-f25c-11e8-92ab-5fbddac78d77](https://user-images.githubusercontent.com/43185859/49842865-2baf7280-fd8b-11e8-9b1c-dfb00e3c5f6d.jpg)
 
 
