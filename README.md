@@ -233,6 +233,12 @@ Compile and Build the following code to execute the sensor and get readings -:
 
 # Enclosure
 
+![Enclosure](https://user-images.githubusercontent.com/43185859/49844967-d37c6e80-fd92-11e8-8ae6-85376e5acf01.jpg)
+
+![Enclosure](https://user-images.githubusercontent.com/43185859/49844969-d4150500-fd92-11e8-8d45-bd95c4c54e42.PNG)
+
+[Corel Draw File](https://github.com/anshulsanan/smart_wear/files/2670327/Anshul_CorelFile.zip)
+
 #
 
 ## Final Product
