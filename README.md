@@ -4,25 +4,27 @@
 ## CENG 317 Instructor: Kristian Medri
 
 ## Table of Contents
-1. [Introduction](#introduction)
+* [Introduction](#introduction)
 
-2. [Parts Required and Budget](#Part-Required-and-Budget)
+* [Parts Required and Budget](#Part-Required-and-Budget)
 
-3. [Time Commitment](#time-commitment)
+* [Time Commitment](#time-commitment)
 
-4. [Raspberry Pi Setup](#raspberry-pi-setup)
+* [Raspberry Pi Setup](#raspberry-pi-setup)
 
-5. [Structure of my Project](structure-of-my-project)
+* [Structure of my Project](structure-of-my-project)
 
-6. [Assembling ](#assembling)
+* [Assembling ](#assembling)
 
-7. [Soldering ](#Soldering)
+* [Soldering ](#Soldering)
 
-8. [Testing](#testing)
+* [Enclosure](#Enclosure)
 
-9. [Final Product](#final-product)
+* [Testing](#testing)
 
-10. [Resources](#resources)
+* [Final Product](#final-product)
+
+* [Resources](#resources)
 
 
 
@@ -143,6 +145,9 @@ A power indicator light will begin to glow, letting you know that you are connec
 Follow all the procedure accordingly and complete the setup . Enable SSH , I2C and VNC in system configurations in the UI of PI.
 
 ### You have successfully completed the setup!!
+
+![raspberry-pi-booting](https://user-images.githubusercontent.com/43185859/49844760-328db380-fd92-11e8-8ac8-bd6f4d5c2cdd.jpg)
+
 
 #
 
