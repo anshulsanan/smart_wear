@@ -223,15 +223,21 @@ I made my PCB using the help of Prototype Lab at Humber College . But if you dow
 
 ## Testing
 Compile and Build the following code to execute the sensor and get readings -:
-#### * In the Terminal , Go to your folder where LIS3DH.py exists.
-#### * Enter ```python3 LIS3DH.py``` command and compile it.
-#### * Execute the compiled code by typing ```./LIS3DH``` .
+I used this Python File for the Sensor-: 
+
 [LIS3DH 3-Axis Accelerometer Python File](https://github.com/anshulsanan/smart_wear/files/2621855/LIS3DH.zip)
 
 
-# ![Code](https://user-images.githubusercontent.com/43185859/49845593-4e468900-fd95-11e8-8c27-8f3014d82888.png)
+#### * In the Terminal , Go to your folder where LIS3DH.py exists.
+#### * Enter ```python3 LIS3DH.py``` command and compile it.
+#### * Extract all the libraries from the file : [Piduino](https://github.com/anshulsanan/smart_wear/files/2670392/piduino.zip)
+#### * Copy and Paste all the Libraries in the "lib" folder
+#### * Execute the compiled code by typing ```./LIS3DH``` .
 
-![Readings](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
+#### You will get the following readings
+# ![Readings](https://user-images.githubusercontent.com/43185859/49110905-b311c780-f25c-11e8-9c8d-693c720bd9f8.jpg)
+
+# ![Code](https://user-images.githubusercontent.com/43185859/49845593-4e468900-fd95-11e8-8c27-8f3014d82888.png)
 
 #
 
