@@ -14,13 +14,15 @@
 
 5. [Structure of my Project](structure-of-my-project)
 
-6. [Assembling and Soldering](#assembling-and-soldering)
+6. [Assembling ](#assembling)
 
-7. [Testing](#testing)
+7. [Soldering ](# Soldering)
 
-8. [Final Product](#final-product)
+8. [Testing](#testing)
 
-9. [Resources](#resources)
+9. [Final Product](#final-product)
+
+10. [Resources](#resources)
 
 
 
@@ -144,11 +146,10 @@ A power indicator light will begin to glow, letting you know that you are connec
 ![49117469-c75ec000-f26e-11e8-89de-af591b191b37](https://user-images.githubusercontent.com/43185859/49842474-b5f6d700-fd89-11e8-9434-e78c4d0f42c8.PNG)
 
 
-## Assembling and Soldering
+## Assembling 
 
 ### Pinout
 ![PinOut](https://user-images.githubusercontent.com/43185859/49836083-60adcc00-fd6f-11e8-8d52-28c39597ddc8.png)
-
 
 * Connect 3.3V on the Raspberry Pi to VCC of the Sensor
 * Connect GND on the Raspberry Pi to GND of the Sensor 
@@ -163,11 +164,13 @@ Next, to ensure the LIS3DH has been connected properly for I2C communications, t
 sudo i2cdetect -y 1
 
 ```
-
 This will display a simple graphic listing each device connected to the I2C bus and it's corrisponding address. The address the LIS3DH uses is 0x19.
 
 ![I2C Reading](https://user-images.githubusercontent.com/43185859/48022115-4f3a2a00-e108-11e8-85be-6037c6ad8365.jpg)
-#
+## Soldering
+
+![49475847-524b3780-f7e6-11e8-89f2-b46c55de2339](https://user-images.githubusercontent.com/43185859/49842577-15ed7d80-fd8a-11e8-967e-6661e784ba59.jpg)
+
 
 ## Testing
 Compile and Build the following code to execute the sensor and get readings -:
